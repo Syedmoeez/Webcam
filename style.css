@@ -1,0 +1,14 @@
+#container{
+    margin: 0px auto;
+    width: 500px;
+    height: 375px;
+    border: 10px solid #333;
+}
+#videoElement{
+    width: 500px;
+    height: 375px;
+    background-color: #666;
+}
+body{
+    background-color: skyblue;
+}
